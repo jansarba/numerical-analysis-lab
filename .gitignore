@@ -15,6 +15,7 @@ Icon
 ._*
 
 .idea
+/*/.venv
 
 # Files that might appear in the root of a volume
 .DocumentRevisions-V100
@@ -37,3 +38,5 @@ Temporary Items
 *.icloud
 
 # End of https://www.toptal.com/developers/gitignore/api/macos
+
+*.zip
